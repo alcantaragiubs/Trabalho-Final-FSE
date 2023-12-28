@@ -1,0 +1,28 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.flashType": "UART",
+  "idf.portWin": "COM4",
+  "files.associations": {
+    "arquivo_configuracao.h": "c",
+    "config.h": "c",
+    "task.h": "c",
+    "arcondicionado.h": "c",
+    "semphr.h": "c",
+    "esp_wifi.h": "c",
+    "esp_http_client.h": "c",
+    "variaveisglobais.C": "cpp",
+    "stdbool.h": "c",
+    "comunicacao_servidor.h": "c",
+    "variaveisglobais.h": "c",
+    "freertos.h": "c",
+    "wifi.h": "c",
+    "esp_system.h": "c",
+    "touch_pad.h": "c",
+    "gpio.h": "c",
+    "time.h": "c",
+    "esp_sleep.h": "c",
+    "uart.h": "c",
+    "gpio_config.h": "c"
+  },
+  "idf.adapterTargetName": "esp32"
+}

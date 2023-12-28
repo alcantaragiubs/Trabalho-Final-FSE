@@ -1,0 +1,2 @@
+idf_component_register(SRCS "lightsleep.c" "mqtt.c" "wifi.c" "mqtt.c" "dht11.c" "gpio_config.c" "variaveisglobais.c" "alarme.c" "chamas.c" "arcondicionado.c" "main.c" "persiana.c" "tv.c"
+                    INCLUDE_DIRS "")
