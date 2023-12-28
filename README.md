@@ -61,7 +61,7 @@ Este trabalho tem por objetivo a criação de um sistema de uma sala de estar au
 #### Clone o repositório
 
 ```bash 
-$ git clone https://github.com/FSE-2023-2/trabalho-final-2023-2-trabalho-final-fse.git
+$ git clone https://github.com/alcantaragiubs/Trabalho-Final-FSE.git
 ```
 
 Observação: Caso não possua o git instalado será nessario a instalação. Sigua o [Tutorial](https://git-scm.com/book/pt-br/v2/Começando-Instalando-o-Git).
